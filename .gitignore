@@ -1,0 +1,22 @@
+# IDE or OS
+.idea/
+.DS_Store
+
+# Log files
+*.log
+
+# WordPress/Composer
+.env
+!wp-content/
+#uploads/
+vendor/
+wordpress/
+wp/
+wp-cli.local.yml
+
+# Build artifact
+build
+# npm
+.sass-cache
+npm-debug.log
+node_modules/
