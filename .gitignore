@@ -7,7 +7,7 @@
 
 # WordPress/Composer
 .env
-!wp-content/
+wp-content/
 #uploads/
 vendor/
 wordpress/
